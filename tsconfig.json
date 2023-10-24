@@ -24,6 +24,12 @@
       ],
       "@/components/*": [
         "./components/*"
+      ],
+      "@/styles/*": [
+        "./styles/*"
+      ],
+      "@/images/*": [
+        "./assets/images/*"
       ]
     }
   },
